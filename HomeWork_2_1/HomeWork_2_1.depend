@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428544780 source:c:\programming\project\homework_2_2\main.cpp
+	<iostream>
+	<cmath>
+
